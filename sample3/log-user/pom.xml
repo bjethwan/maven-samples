@@ -9,6 +9,7 @@
     <name>Log User</name>
 
     <dependencies>
+    
         <dependency>
             <groupId>com.bjethwan.maven</groupId>
             <artifactId>log-provider</artifactId>

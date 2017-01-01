@@ -6,6 +6,7 @@
 	<groupId>com.bjethwan.maven</groupId>
 	<artifactId>sample1</artifactId>
 	<version>1.0</version>
+	
 	<name>My First Maven Project</name>
 
 	<dependencies>
