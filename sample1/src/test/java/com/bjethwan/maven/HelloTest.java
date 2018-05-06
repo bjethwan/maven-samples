@@ -34,6 +34,6 @@ public class HelloTest {
         System.setOut(stream);
 
         Hello.main();
-        assertEquals("Hello, World!" + NEW_LINE, baos.toString());
+        assertEquals("Hello, Maven World!!! at TMB Bank" + NEW_LINE, baos.toString());
     }
 }

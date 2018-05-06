@@ -1,0 +1,1 @@
+java -cp target/sample1-1.0.jar com.bjethwan.maven.Hello
