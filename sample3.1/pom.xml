@@ -5,10 +5,8 @@
     <groupId>com.bjethwan.maven</groupId>
     <artifactId>log-parent</artifactId>
     <version>1.0</version>
-    
-	<packaging>pom</packaging>
 
-    <name>Log Parent</name>
+    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>
@@ -18,7 +16,6 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 </project>
 
 

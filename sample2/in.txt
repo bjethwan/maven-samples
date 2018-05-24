@@ -1,0 +1,1 @@
+java -cp target\sample2-1.0.jar;C:\Users\KH1783\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar com.bjethwan.maven.Hello
