@@ -1,6 +1,8 @@
 # maven-samples
 all my samples to learn working with maven, dependency management, transitive dependencies, parent pom
 
+russgold.github.io/russgold/maven-video
+
 maven-tomcat-sample1
     http://tomcat.apache.org/maven-plugin-2.2/
 
