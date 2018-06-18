@@ -6,3 +6,4 @@ public class Something {
 		return "Maven Hello to TMB";
 	}
 }
+
